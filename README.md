@@ -6,8 +6,8 @@ Built from https://www.digitalocean.com/community/tutorials/how-to-create-and-de
 
 `.`  
 `├── .eleventyignore`    <--- See section [.eleventyignore](#eleventyignore) for details.  
-`├── about`              <--- A directory for our `About` page.  See [Creating the About Page](#creating-the-about-page).
-`│   └── index.md`       <--- The Markdown content of `About`.
+`├── about`              <--- A directory for our `About` page.  See [Creating the About Page](#creating-the-about-page).  
+`│   └── index.md`       <--- The Markdown content of `About`.  
 `├── css`                <--- Holds our site's [CSS stylesheets](#style-and-javascript).   
 `│   └── style.css`      <--- Primary CSS stylesheet imported from a CDN. See [Style and Javascript](#style-and-javascript).  
 `├── _data`              <--- `_data` is home to [global data files](#global-data).  
