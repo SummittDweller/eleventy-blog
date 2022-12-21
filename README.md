@@ -22,10 +22,10 @@ Built from https://www.digitalocean.com/community/tutorials/how-to-create-and-de
 `├── node_modules`       <--- See [Initialization](#initialization).  
 `├── package.json`       <--- See [Initialization](#initialization).  
 `├── package-lock.json`  <--- See [Initialization](#initialization).  
-`├── posts`              <--- A custom content type, or "collection".  See [#creating-posts-more-than-just-a-page].
-`│   ├── first-post.md`  <--- An individual collection element page, a `post` in Markdown. 
+`├── posts`              <--- A custom content type, or "collection".  See [#creating-posts-more-than-just-a-page].  
+`│   ├── first-post.md`  <--- An individual collection element page, a `post` in Markdown.  
 `│   ├── second-post.md` <--- An individual collection element page, a `post` in Markdown.  
-`│   └── third-post.md`  <--- An individual collection element page, a `post` in Markdown. 
+`│   └── third-post.md`  <--- An individual collection element page, a `post` in Markdown.  
 `└── _site`              <--- [Build or Start the Site](#build-or-start-the-site). `_site` is our generated static site.  
 `    ├── about`  
 `    │   └── index.html`  
