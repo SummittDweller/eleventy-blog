@@ -280,6 +280,8 @@ layout: layouts/base.njk
 
 [How to Create and Deploy Your First Eleventy Website](https://www.digitalocean.com/community/tutorials/how-to-create-and-deploy-your-first-eleventy-website) goes on in steps 10 and 11 to save everything created here in a _GitHub_ repo (Step 10), and then deploy the blog as a static web app/site on _DigitalOcean_ (Step 11).  I've already completed the equivalent of Step 10 and you can find this project, and this `README.md` file at https://github.com/SummittDweller/eleventy-blog.  That's where I'm going to end this project, but my plan is to create a new blog, very similar to this one and using the process documented here to get me started.  Look for that project at https://github.com/SummittDweller/my-eleventy-blog.  
 
+This `README.md` file is likely to become the first `post` in [my-eleventy-blog](https://github.com/SummittDweller/my-eleventy-blog).  
+
 Rather than deploying [my-eleventy-blog](https://github.com/SummittDweller/my-eleventy-blog) to _DigitalOcean_, I'll probably follow the guidance from [Deploying an 11ty Site to Azure Static Web Apps](https://squalr.us/2021/05/deploying-an-11ty-site-to-azure-static-web-apps/) to host it on _Azure_.   I've used both hosts in the past, and I've been with _DigitalOcean_ much longer, but I still have some room for another "free" static app with _Azure_, so that's where I'm headed with this for now.   
 
 Wish me luck!  
