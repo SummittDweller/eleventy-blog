@@ -67,7 +67,9 @@ Use `npm run start` (like `build`, the `start` "command" is defined in the `scri
 
 # .eleventyignore
 
-The file named `.eleventyignore` specifies a list of files or paths that should be ignored by _Eleventy_ when building the site.  Since this `README.md` file contains snippets of _Nunjucks_ and other template syntax, it is important that `README.md` is included in the `.eleventyignore` file.  The contents of that file in this project is:
+The file named `.eleventyignore` specifies a list of files or paths that should be ignored by _Eleventy_ when building the site.  Since this `README.md` file contains snippets of _Nunjucks_ and other template syntax, it is important that `README.md` is included in the `.eleventyignore` file.  Failing to "ignore" documentation files like this one can lead to build failures so don't overlook this feature!    
+
+In this project `.eleventyignore` contains this:  
 
 ```
 README.md
